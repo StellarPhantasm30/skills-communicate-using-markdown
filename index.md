@@ -8,3 +8,6 @@
 ```JAVA
 System.out.println("Learning github Markdown")
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
